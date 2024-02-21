@@ -1,0 +1,7 @@
+{
+    "projectName": "BLTPool",
+    "namespace": "BLTPool.Contracts",
+    "lang": 0,
+    "autoCodeGen": true,
+    "projectPath": "../"
+}
